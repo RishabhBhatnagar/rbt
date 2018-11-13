@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="rbt",
+    name="rb_tree",
     version="0.0.1",
     author="Rishabh Bhatnagar",
     author_email="bhatnagarrishabh4@gmail.com",
