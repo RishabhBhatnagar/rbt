@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="rb_tree",
-    version="0.0.1",
+    version="0.0.1.3",
     author="Rishabh Bhatnagar",
     author_email="bhatnagarrishabh4@gmail.com",
     description="Manage rbt easily",
